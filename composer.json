@@ -1,12 +1,16 @@
 {
     "name": "gruhlke/bushido",
-    "type": "library",
-    "license": "Proprietary",
-    "require-dev": {
-        "adodb/adodb-php": "^5.22"
-    },
+	"description": "Visionary Bushido code library",
+	"authors": [
+		{
+			"name": "Bryan Gruhlke",
+			"email": "bryan@visionary.com",
+			"role": "Current maintainer"
+		}
+	],
+    	"type": "library",
+    	"license": "Proprietary",
 	"require" : {
-		"php" : "^5.4 || ^7.0 || ^8.0",
-        "adodb/adodb-php": "^5.22"
+		"php" : "^5.4 || ^7.0 || ^8.0"
 	}
 }
