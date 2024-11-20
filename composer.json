@@ -1,5 +1,5 @@
 {
-    "name": "visionary/bushido",
+    "name": "gruhlke/bushido",
     "type": "library",
     "license": "Proprietary",
     "require-dev": {
