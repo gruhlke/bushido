@@ -1,0 +1,12 @@
+{
+    "name": "visionary/bushido",
+    "type": "library",
+    "license": "Proprietary",
+    "require-dev": {
+        "adodb/adodb-php": "^5.22"
+    },
+	"require" : {
+		"php" : "^5.4 || ^7.0 || ^8.0",
+        "adodb/adodb-php": "^5.22"
+	}
+}
